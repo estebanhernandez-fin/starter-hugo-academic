@@ -30,10 +30,8 @@ education:
     - course: BA in Business Administration
       institution: Interamerican University
       year: ""
-email: "estebanherna2015@fau.edu"
+email: estebanherna2015@fau.edu
 superuser: true
 highlight_name: true
 ---
-My name is Esteban Hernandez and I am a PhD student at Florida Atlantic University. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My name is Esteban Hernandez and I am a PhD student at Florida Atlantic University.

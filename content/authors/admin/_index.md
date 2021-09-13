@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Finance
       institution: Florida Atlantic University
-      year: ""
+      year: "2020-present"
     - course: MS in Finance
       institution: Florida Atlantic University
       year: ""

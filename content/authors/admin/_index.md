@@ -30,7 +30,7 @@ education:
     - course: BA in Business Administration
       institution: Interamerican University
       year: ""
-email: ""
+email: "estebanherna2015@fau.edu"
 superuser: true
 highlight_name: true
 ---

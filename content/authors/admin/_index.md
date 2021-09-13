@@ -1,7 +1,7 @@
 ---
 title: Esteban Hernandez
 role: PhD Student
-avatar_filename: content/authors/admin/esteban-pic.jpg
+avatar_filename: ""
 bio: My research interests include investments and corporate finance.
 interests:
   - Investments

@@ -24,12 +24,12 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "**Regresion Analysis**, **Panel Data**"  
+  description = "**Regression Analysis**, Panel Data"  
   
 [[feature]]
   icon = "language"
   icon_pack = "fa"
   name = "Languages"
-  description = "**English**, **Spanish**"
+  description = "**English**, Spanish"
 
 +++

@@ -4,12 +4,12 @@ title: "An example conference paper"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
+#authors:
+# - admin
 #-
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 

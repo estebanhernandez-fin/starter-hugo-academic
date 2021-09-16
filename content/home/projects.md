@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: My Research
+  - name: Working Papers
     tag: Finance
-  - name: Collaborative
-    tag: Demo
+  - name: Peer-reviewed & Invited Publications
+    tag: Finance
+  - name: Work in Progress
+    tag: Finance  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -5,7 +5,8 @@ avatar_filename: ""
 bio: My research interests include investments and corporate finance.
 interests:
   - Investments
-  - CorporateFinance
+  - Corporate Finance
+  - International Finance
 social:
   - icon: envelope
     icon_pack: fas

@@ -35,11 +35,13 @@ email: estebanherna2015@fau.edu
 superuser: true
 highlight_name: true
 ---
-Esteban Hernandez is a Ph.D. student in Finance at Florida Atlantic University, expecting to graduate in the spring of 2024. Esteban currently serves as a graduate research assistant to Dr. Luis Gacia-Feijo, conducting literature reviews, collecting data, maintaining data files, and assisting with data analysis in the areas of international finance and investments.
+Esteban is currently pursuing a Ph.D. degree in Finance at Florida Atlantic University, with expected graduation in the spring of 2024.  He is also assisting Dr. Luis Garcia-Feijoo with his research in the areas of investments and international finance.  In this capacity, Esteban conducts literature reviews, collects & maintains data files, and assists Dr. Garcia-Feijoo with the analysis & interpretation of observed financial data.  
 
 In addition to his duties as a graduate research assistant, Esteban is working on various individual research projects on the topics of ETFs, military CEOs, and private equity.
 
-Esteban has lectured undergraduate level Advanced Managerial Finance, Cases in Financial Management, and graduate-level Financial Modeling.
+Esteban has taught ‘Advanced Managerial Finance’ and ‘Cases in Financial Management’ to undergraduates at Florida Atlantic University and a financial modeling course at the graduate level.
 
-Esteban resides in Boca Raton, Florida, with his wife, Janice. The two are devoted parents to Gabriela, Evan, Gabriella, and Mia. In addition to academia, Esteban has a passion for coaching youth basketball.
+Esteban resides in Boca Raton, Florida, with his wife, Janice. The two are devoted parents to Gabriela, Evan, Gabriella, and Mia. In addition to academics, Esteban has a passion for coaching youth basketball.
+
+
 

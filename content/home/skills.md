@@ -18,18 +18,18 @@ subtitle = ""
   icon = "code"
   icon_pack = "fa"
   name = "Programming"
-  description = "**STATA**, SAS, R"
+  description = "STATA, SAS, R"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "**Regression Analysis**, Panel Data"  
+  description = "Regression Analysis, Panel Data"  
   
 [[feature]]
   icon = "language"
   icon_pack = "fa"
   name = "Languages"
-  description = "**English**, Spanish"
+  description = "English, Spanish"
 
 +++

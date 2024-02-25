@@ -2,11 +2,11 @@
 title: Esteban Hernandez
 role: PhD Student
 avatar_filename: ""
-bio: My research interests include investments and corporate finance.
+bio: My research interests include corporate and behavioral finance.
 interests:
-  - Investments
-  - Corporate Finance
-  - International Finance
+  - Executive's professional experiences
+  - Financial and payout policies
+  - Diversity
 social:
   - icon: envelope
     icon_pack: fas

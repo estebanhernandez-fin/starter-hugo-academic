@@ -35,13 +35,11 @@ email: estebanherna2015@fau.edu
 superuser: true
 highlight_name: true
 ---
-Esteban is currently pursuing a Ph.D. degree in Finance at Florida Atlantic University, with expected graduation in the spring of 2024.  He is also assisting Dr. Luis Garcia-Feijoo with his research in the areas of investments and international finance.  In this capacity, Esteban conducts literature reviews, collects & maintains data files, and assists Dr. Garcia-Feijoo with the analysis & interpretation of observed financial data.  
+Esteban is currently pursuing a Ph.D. degree in Finance at Florida Atlantic University, with an expected graduation in the spring of 2025. His primary research interest is on corporate and behavioral finance. 
 
-In addition to his duties as a graduate research assistant, Esteban is working on various individual research projects on the topics of ETFs, military CEOs, and private equity.
+He is working on various individual research projects on the topics of executives corporate experiences, financial and payout policies, and diversity.
 
-Esteban has taught ‘Advanced Managerial Finance’ and ‘Cases in Financial Management’ to undergraduates at Florida Atlantic University and a financial modeling course at the graduate level.
-
-Esteban resides in Boca Raton, Florida, with his wife, Janice. The two are devoted parents to Gabriela, Evan, Gabriella, and Mia. In addition to academics, Esteban has a passion for coaching youth basketball.
+Esteban teaches undergraduate and graduate corporate and personal finance courses at Florida Atlantic University.
 
 
 
